@@ -1,0 +1,189 @@
+3:I[4707,[],""]
+5:I[6423,[],""]
+6:I[8003,["185","static/chunks/app/layout-d75eb1b0d471d82a.js"],""]
+2:T33f0,<p>The H-1B gets all the attention, but it is a lottery with roughly one-in-four odds and a sponsorship price tag that scares off many employers. Three other US work visas bypass the lottery entirely: the <strong>L-1</strong> (intra-company transfer), the <strong>O-1</strong> (extraordinary ability), and the <strong>TN</strong> (for Canadian and Mexican professionals). For many applicants, one of these is a better strategy than the H-1B — if you qualify.</p>
+<p>This guide covers who each visa is for, what it really costs in 2026, and how to think about them as a strategy rather than a lottery ticket.</p>
+<h2>L-1: the intra-company transfer</h2>
+<p><strong>Who it is for:</strong> employees of multinational companies with a qualifying relationship between a foreign office and a US office (parent, subsidiary, branch, or affiliate). The employee must have worked for the company abroad for at least <strong>one continuous year in the preceding three years</strong>.</p>
+<p><strong>Two subcategories:</strong></p>
+<ul>
+<li><strong>L-1A — managers and executives.</strong> For people who manage an organization, department, or function, or who direct the organization&#39;s management. Seniority matters here — team leads with real reports and budget authority qualify; individual contributors with &quot;manager&quot; in their title do not.</li>
+<li><strong>L-1B — specialized knowledge.</strong> For employees with knowledge of the company&#39;s products, systems, or processes that is genuinely specialized — proprietary technology, complex internal systems, niche expertise the company cannot easily hire for in the US.</li>
+</ul>
+<p><strong>Why it is powerful:</strong></p>
+<ul>
+<li><strong>No lottery, no annual cap.</strong> The petition is adjudicated on its merits, not drawn from a pool.</li>
+<li><strong>No prevailing-wage requirement</strong> like the H-1B&#39;s Labor Condition Application.</li>
+<li><strong>Faster in practice.</strong> With premium processing ($2,965, 15 business days), a well-prepared petition can move from filing to approval in weeks.</li>
+<li><strong>L-1A is a strong green card springboard.</strong> Multinational executives and managers can often go straight to an EB-1C green card petition without the labor certification (PERM) process the H-1B route requires.</li>
+</ul>
+<p><strong>2026 costs</strong> (Form I-129, paid by the employer):</p>
+<table>
+<thead>
+<tr>
+<th>Fee</th>
+<th>Large employer</th>
+<th>Small employer (25 or fewer FTE)</th>
+</tr>
+</thead>
+<tbody><tr>
+<td>I-129 base filing fee</td>
+<td>$1,385</td>
+<td>$695</td>
+</tr>
+<tr>
+<td>Asylum Program Fee</td>
+<td>$600</td>
+<td>$300</td>
+</tr>
+<tr>
+<td>Fraud Prevention and Detection Fee (initial petitions)</td>
+<td>$500</td>
+<td>$500</td>
+</tr>
+<tr>
+<td>Premium processing (optional)</td>
+<td>$2,965</td>
+<td>$2,965</td>
+</tr>
+</tbody></table>
+<p>Employers with 50+ US workers where more than half hold H-1B or L-1 status face an additional $4,500 surcharge. Legal fees are on top, typically several thousand dollars — still far cheaper than the all-in cost of an H-1B.</p>
+<p><strong>The strategic play:</strong> the L-1 is the most <em>plannable</em> US work visa. If you are in Pakistan, India, or elsewhere in South Asia, joining a multinational&#39;s local office — a bank, a tech firm, a Big Four consultancy, a consumer-goods giant — and spending a year or two there is a deliberate, repeatable path to the US. Many professionals treat it as exactly that: a stepping stone they chose on purpose, not a lucky break.</p>
+<p><strong>Watch-outs:</strong></p>
+<ul>
+<li><strong>The one-year rule is strict.</strong> You must complete a full continuous year abroad before the transfer; time already spent in the US on certain visas can complicate the count.</li>
+<li><strong>New US offices get short initial approvals</strong> (typically one year), with renewals requiring proof the office is growing.</li>
+<li><strong>L-1B &quot;specialized knowledge&quot; is heavily scrutinized.</strong> USCIS has tightened this category; the knowledge must be genuinely company-specific, not just &quot;good at a common skill.&quot;</li>
+</ul>
+<h2>O-1: extraordinary ability or achievement</h2>
+<p><strong>Who it is for:</strong> individuals with a record of <strong>extraordinary ability</strong> in sciences, education, business, or athletics (O-1A), or <strong>extraordinary achievement</strong> in the arts or the motion picture/television industry (O-1B). The bar is high but concrete: USCIS lists specific criteria, and you must meet at least <strong>three of eight</strong> — things like nationally or internationally recognized awards, published material about you, original contributions of major significance, authorship of scholarly articles, high salary relative to peers, judging the work of others, or critical employment at distinguished organizations.</p>
+<p><strong>Why it is powerful:</strong></p>
+<ul>
+<li><strong>No lottery, no cap, no wage weighting.</strong> Adjudication is purely on the evidence.</li>
+<li><strong>No degree requirement.</strong> The O-1 does not require a bachelor&#39;s degree — achievement is the currency.</li>
+<li><strong>Flexible for founders and freelancers.</strong> An O-1 can be sponsored by a US agent or employer acting on behalf of multiple engagements, which suits people with portfolio careers.</li>
+<li><strong>High approval rates for well-built cases.</strong> Approval rates have run around 90% in recent years — the filter is preparation, not luck.</li>
+</ul>
+<p><strong>The consultation requirement:</strong> nearly every O-1 petition needs a written advisory opinion from a peer group or expert in the field — a professional association, or a labor union plus a management organization for film/TV work. Build this into your timeline.</p>
+<p><strong>2026 costs</strong> (Form I-129, paid by the petitioner):</p>
+<table>
+<thead>
+<tr>
+<th>Fee</th>
+<th>Standard employer</th>
+<th>Small employer / nonprofit</th>
+</tr>
+</thead>
+<tbody><tr>
+<td>I-129 base filing fee</td>
+<td>$1,055</td>
+<td>$530</td>
+</tr>
+<tr>
+<td>Asylum Program Fee</td>
+<td>$600</td>
+<td>$300 / $0</td>
+</tr>
+<tr>
+<td>Premium processing (optional)</td>
+<td>$2,965</td>
+<td>$2,965</td>
+</tr>
+<tr>
+<td>Visa integrity fee (consular stage)</td>
+<td>$250</td>
+<td>$250</td>
+</tr>
+</tbody></table>
+<p>A typical employer pays about $1,655 in government fees, or about $4,620 with premium processing. Attorney fees for O-1 cases run higher than for H-1B because the evidence package is bespoke — budget accordingly.</p>
+<p><strong>Duration:</strong> initial grants of up to <strong>3 years</strong>, with extensions in <strong>1-year increments</strong> tied to the continuing work or event. There is no statutory maximum — you can keep extending as long as the qualifying work continues.</p>
+<p><strong>The strategic play:</strong> the O-1 rewards people who build a public record of achievement. If you are a researcher with citations, a founder with press coverage, an engineer with patents or major open-source contributions, or a creative with awards and a portfolio — the O-1 may be more attainable than it sounds. And unlike the H-1B, nobody else&#39;s luck affects your outcome. If you are two or three criteria short today, you can deliberately close the gap: publish, speak, judge competitions, join professional bodies. That is a plan, not a hope.</p>
+<p><strong>Watch-outs:</strong></p>
+<ul>
+<li><strong>It is employer/agency-tied.</strong> You cannot self-petition; a US employer, agent, or organization files for you.</li>
+<li><strong>Evidence quality decides everything.</strong> A thin petition with generic recommendation letters gets a Request for Evidence or a denial. Strong cases are built over months with labeled, specific documentation per criterion.</li>
+<li><strong>Standard processing can be slow</strong> — some service centers run several months, which is why most O-1 petitioners pay for premium processing.</li>
+</ul>
+<h2>TN: the USMCA professional visa</h2>
+<p><strong>Who it is for:</strong> <strong>citizens of Canada and Mexico only</strong> — this one is nationality-restricted by treaty. If you hold a Canadian or Mexican passport, the TN lets you work in the US in one of <strong>63 designated professional occupations</strong> (engineers, accountants, computer systems analysts, scientists, registered nurses, management consultants, university teachers, and more), provided the job matches a listed occupation and you hold the required credentials.</p>
+<p><strong>Why it is powerful:</strong></p>
+<ul>
+<li><strong>No lottery, no cap, no petition lottery queue.</strong> For Canadians, the process can happen at the border: you present your documentation to a CBP officer at a port of entry and can be admitted the same day.</li>
+<li><strong>Cheap and fast.</strong> Government costs are a fraction of H-1B or L-1 filings, and there is no months-long USCIS petition cycle for border applications.</li>
+<li><strong>Renewable in 3-year increments with no statutory limit</strong> on renewals.</li>
+<li><strong>Spouses and children</strong> get TD status (they can live and study in the US but cannot work).</li>
+</ul>
+<p><strong>2026 status — the USMCA review:</strong> in 2026 the administration triggered the treaty&#39;s six-year review mechanism, starting a process that could lead to changes or, in the extreme, expiry in 2036 if the parties cannot agree. As of October 2026, <strong>nothing has changed</strong> — no occupations removed, no new requirements, no change to admission procedures. Canadian and Mexican professionals should continue normal planning, but keep an eye on the negotiations.</p>
+<p><strong>One new 2026 wrinkle:</strong> from October 1, 2026, the US expanded mandatory social media screening to TN (and TD) applicants — profiles must be set to public for vetting. Build this into your preparation.</p>
+<p><strong>Watch-outs:</strong></p>
+<ul>
+<li><strong>No dual intent.</strong> Unlike the H-1B, TN status does not formally allow immigrant intent. Pursuing a green card while on TN requires careful legal strategy — many TN holders switch to H-1B first for exactly this reason.</li>
+<li><strong>Occupation matching is unforgiving.</strong> The job title and duties must fit a listed treaty occupation precisely. &quot;Management consultant&quot; and &quot;computer systems analyst&quot; denials are common when the job description is too generic or the title does not match the duties.</li>
+<li><strong>Not available to other nationalities.</strong> Pakistani, Indian, and other non-treaty nationals cannot use this route regardless of qualifications.</li>
+</ul>
+<h2>Head-to-head: which fits you?</h2>
+<table>
+<thead>
+<tr>
+<th></th>
+<th>H-1B</th>
+<th>L-1</th>
+<th>O-1</th>
+<th>TN</th>
+</tr>
+</thead>
+<tbody><tr>
+<td>Lottery / cap</td>
+<td>Yes — weighted lottery, 85,000 cap</td>
+<td>No</td>
+<td>No</td>
+<td>No</td>
+</tr>
+<tr>
+<td>Who qualifies</td>
+<td>Any nationality, specialty occupation</td>
+<td>Multinational employees (1 yr abroad)</td>
+<td>Extraordinary ability/achievement</td>
+<td>Canadian/Mexican citizens in 63 occupations</td>
+</tr>
+<tr>
+<td>Typical government cost</td>
+<td>$2,000–$7,000+</td>
+<td>$2,500–$3,000</td>
+<td>$1,655 ($4,620 w/ premium)</td>
+<td>Minimal</td>
+</tr>
+<tr>
+<td>Dual intent (green card path)</td>
+<td>Yes</td>
+<td>Yes (esp. L-1A → EB-1C)</td>
+<td>Yes</td>
+<td>No</td>
+</tr>
+<tr>
+<td>Speed with premium</td>
+<td>15 business days</td>
+<td>15 business days</td>
+<td>15 business days</td>
+<td>Same-day at border (Canadians)</td>
+</tr>
+<tr>
+<td>Main risk</td>
+<td>Not selected / fee uncertainty</td>
+<td>Scrutiny of &quot;specialized knowledge&quot;</td>
+<td>Evidence bar</td>
+<td>Occupation mismatch; no dual intent</td>
+</tr>
+</tbody></table>
+<h2>Strategy notes for applicants in Pakistan and South Asia</h2>
+<ol>
+<li><strong>The L-1 stepping stone is the most actionable plan.</strong> If direct H-1B sponsorship looks like a long shot, a year at a multinational&#39;s local office converts hope into a process. Target employers with real US operations and a history of internal transfers.</li>
+<li><strong>Audit yourself against O-1 criteria honestly.</strong> Count how many of the eight criteria you could evidence today. If you are at one or two, build the record deliberately — publications, judging roles, press, awards. Researchers, founders, and top engineers are often closer than they think.</li>
+<li><strong>Do not pay anyone for these visas.</strong> Legitimate employers and petitioners pay the costs. Anyone selling you an L-1 or O-1 &quot;sponsorship&quot; for a fee is running a scam or a visa mill.</li>
+<li><strong>Talk to a licensed US immigration attorney</strong> before committing to a strategy. The categories interact — an L-1A holder has a cleaner green card path than an H-1B holder, and a TN holder needs a different plan than an O-1 holder. A one-hour consultation is the cheapest money in this entire process.</li>
+</ol>
+<p><strong>Disclaimer:</strong> US immigration fees and policies change frequently — premium processing fees rose in March 2026, the USMCA review is ongoing, and rulemaking can shift costs. Verify current figures on uscis.gov or with a licensed attorney before acting.</p>
+4:["slug","us-work-visas-l1-o1-tn","d"]
+0:["BMHEJiMdf_LGD3uxSWOVj",[[["",{"children":["blog",{"children":[["slug","us-work-visas-l1-o1-tn","d"],{"children":["__PAGE__?{\"slug\":\"us-work-visas-l1-o1-tn\"}",{}]}]}]},"$undefined","$undefined",true],["",{"children":["blog",{"children":[["slug","us-work-visas-l1-o1-tn","d"],{"children":["__PAGE__",{},[["$L1",["$","article",null,{"className":"content-page blog-post","children":[["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"{\"@context\":\"https://schema.org\",\"@type\":\"BreadcrumbList\",\"itemListElement\":[{\"@type\":\"ListItem\",\"position\":1,\"name\":\"Home\",\"item\":\"https://aijobboard.example.com/\"},{\"@type\":\"ListItem\",\"position\":2,\"name\":\"Guides\",\"item\":\"https://aijobboard.example.com/blog\"},{\"@type\":\"ListItem\",\"position\":3,\"name\":\"US Work Visas Beyond H-1B: L-1, O-1, and TN in 2026\",\"item\":\"https://aijobboard.example.com/blog/us-work-visas-l1-o1-tn\"}]}"}}],["$","p",null,{"className":"breadcrumb","children":["$","a",null,{"href":"/blog","children":"← All guides"}]}],["$","h1",null,{"children":"US Work Visas Beyond H-1B: L-1, O-1, and TN in 2026"}],["$","div",null,{"className":"job-meta","children":[["$","span",null,{"children":["By ","Editorial Team"]}],["$","span",null,{"children":"2026-10-19"}],["$","span",null,{"className":"badge","children":"Visa Guides"}],["$","span",null,{"className":"badge","children":"usa"}]]}],["$","div",null,{"className":"prose","dangerouslySetInnerHTML":{"__html":"$2"}}],["$","p",null,{"children":["Ready to apply? ",["$","a",null,{"href":"/jobs/states","children":"Find jobs in your state →"}]]}]]}],null],null],null]},[null,["$","$L3",null,{"parallelRouterKey":"children","segmentPath":["children","blog","children","$4","children"],"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L5",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","notFoundStyles":"$undefined"}]],null]},[null,["$","$L3",null,{"parallelRouterKey":"children","segmentPath":["children","blog","children"],"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L5",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","notFoundStyles":"$undefined"}]],null]},[[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/52565c617c916df7.css","precedence":"next","crossOrigin":"$undefined"}]],["$","html",null,{"lang":"en","children":["$","body",null,{"className":"__className_d8ebd1","children":[["$","a",null,{"className":"skip-link","href":"#main-content","children":"Skip to main content"}],["$","header",null,{"className":"site-header","id":"site-header","children":["$","div",null,{"className":"container header-inner","children":[["$","a",null,{"className":"brand","href":"/","aria-label":"USA Job Board — home","children":[["$","svg",null,{"className":"brand-mark","width":"30","height":"30","viewBox":"0 0 32 32","fill":"none","aria-hidden":"true","children":[["$","rect",null,{"x":"2","y":"9","width":"28","height":"18","rx":"4","fill":"url(#brandGrad)"}],["$","path",null,{"d":"M11 9V7a3 3 0 0 1 3-3h4a3 3 0 0 1 3 3v2","stroke":"#38bdf8","strokeWidth":"2.5","strokeLinecap":"round"}],["$","path",null,{"d":"M2 14h28","stroke":"#0f172a","strokeWidth":"2","strokeOpacity":"0.35"}],["$","defs",null,{"children":["$","linearGradient",null,{"id":"brandGrad","x1":"2","y1":"9","x2":"30","y2":"27","children":[["$","stop",null,{"stopColor":"#38bdf8"}],["$","stop",null,{"offset":"1","stopColor":"#a78bfa"}]]}]}]]}],["$","span",null,{"className":"brand-text","children":["USA ",["$","span",null,{"children":"Job Board"}]]}]]}],["$","button",null,{"className":"nav-toggle","id":"nav-toggle","aria-expanded":"false","aria-controls":"primary-nav","aria-label":"Open menu","children":[["$","span",null,{}],["$","span",null,{}],["$","span",null,{}]]}],["$","nav",null,{"id":"primary-nav","className":"primary-nav","aria-label":"Main navigation","children":[["$","a",null,{"href":"/","className":"nav-link","children":"Home"}],["$","div",null,{"className":"nav-dropdown","children":[["$","a",null,{"href":"/jobs","className":"nav-link nav-dropdown-toggle","aria-haspopup":"true","children":["Jobs",["$","svg",null,{"width":"10","height":"6","viewBox":"0 0 10 6","aria-hidden":"true","children":["$","path",null,{"d":"M1 1l4 4 4-4","stroke":"currentColor","strokeWidth":"1.8","fill":"none","strokeLinecap":"round"}]}]]}],["$","div",null,{"className":"nav-dropdown-menu nav-dropdown-wide","role":"menu","children":[["$","a",null,{"href":"/jobs","role":"menuitem","className":"dropdown-lead","children":[["$","strong",null,{"children":"All Jobs"}],["$","span",null,{"children":"Search every open role across the USA"}]]}],["$","a",null,{"href":"/jobs/states","role":"menuitem","className":"dropdown-lead","children":[["$","strong",null,{"children":"Browse by State"}],["$","span",null,{"children":"Local jobs in all 50 states"}]]}],["$","div",null,{"className":"dropdown-divider","aria-hidden":"true"}],["$","p",null,{"className":"dropdown-label","children":"By category"}],["$","div",null,{"className":"dropdown-grid","children":[["$","a","engineering",{"href":"/jobs/category/engineering","role":"menuitem","children":"Engineering"}],["$","a","data",{"href":"/jobs/category/data","role":"menuitem","children":"Data & Analytics"}],["$","a","product",{"href":"/jobs/category/product","role":"menuitem","children":"Product"}],["$","a","marketing",{"href":"/jobs/category/marketing","role":"menuitem","children":"Marketing"}],["$","a","support",{"href":"/jobs/category/support","role":"menuitem","children":"Support"}],["$","a","healthcare",{"href":"/jobs/category/healthcare","role":"menuitem","children":"Healthcare"}],["$","a","trades",{"href":"/jobs/category/trades","role":"menuitem","children":"Trades & Construction"}],["$","a","education",{"href":"/jobs/category/education","role":"menuitem","children":"Education"}],["$","a","logistics",{"href":"/jobs/category/logistics","role":"menuitem","children":"Logistics & Driving"}],["$","a","finance",{"href":"/jobs/category/finance","role":"menuitem","children":"Finance & Accounting"}]]}]]}]]}],["$","div",null,{"className":"nav-dropdown","children":[["$","a",null,{"href":"/blog","className":"nav-link nav-dropdown-toggle","aria-haspopup":"true","children":["Guides",["$","svg",null,{"width":"10","height":"6","viewBox":"0 0 10 6","aria-hidden":"true","children":["$","path",null,{"d":"M1 1l4 4 4-4","stroke":"currentColor","strokeWidth":"1.8","fill":"none","strokeLinecap":"round"}]}]]}],["$","div",null,{"className":"nav-dropdown-menu","role":"menu","children":[["$","a",null,{"href":"/blog","role":"menuitem","className":"dropdown-lead","children":[["$","strong",null,{"children":"All Guides"}],["$","span",null,{"children":"Salary, resume & interview advice"}]]}],["$","div",null,{"className":"dropdown-divider","aria-hidden":"true"}],[["$","a","Salary Guides",{"href":"/blog?category=Salary%20Guides","role":"menuitem","children":"Salary Guides"}],["$","a","Application Prep",{"href":"/blog?category=Application%20Prep","role":"menuitem","children":"Application Prep"}],["$","a","Visa Guides",{"href":"/blog?category=Visa%20Guides","role":"menuitem","children":"Visa Guides"}]]]}]]}],["$","a",null,{"href":"/about","className":"nav-link","children":"About"}],["$","a",null,{"href":"/jobs","className":"btn btn-primary nav-cta","children":"Find Jobs"}]]}]]}]}],["$","main",null,{"id":"main-content","className":"container","children":["$","$L3",null,{"parallelRouterKey":"children","segmentPath":["children"],"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L5",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[["$","h1",null,{"children":"Page not found"}],["$","p",null,{"children":"The page you are looking for does not exist or has been removed."}],["$","p",null,{"children":["$","a",null,{"href":"/","children":"Back to the homepage →"}]}]],"notFoundStyles":[]}]}],["$","footer",null,{"className":"site-footer","children":["$","div",null,{"className":"container","children":[["$","div",null,{"className":"footer-grid","children":[["$","div",null,{"className":"footer-brand","children":[["$","a",null,{"className":"brand","href":"/","aria-label":"USA Job Board — home","children":[["$","svg",null,{"className":"brand-mark","width":"28","height":"28","viewBox":"0 0 32 32","fill":"none","aria-hidden":"true","children":[["$","rect",null,{"x":"2","y":"9","width":"28","height":"18","rx":"4","fill":"url(#footGrad)"}],["$","path",null,{"d":"M11 9V7a3 3 0 0 1 3-3h4a3 3 0 0 1 3 3v2","stroke":"#38bdf8","strokeWidth":"2.5","strokeLinecap":"round"}],["$","defs",null,{"children":["$","linearGradient",null,{"id":"footGrad","x1":"2","y1":"9","x2":"30","y2":"27","children":[["$","stop",null,{"stopColor":"#38bdf8"}],["$","stop",null,{"offset":"1","stopColor":"#a78bfa"}]]}]}]]}],["$","span",null,{"className":"brand-text","children":["USA ",["$","span",null,{"children":"Job Board"}]]}]]}],["$","p",null,{"children":"Local jobs in your city and professional roles across all 50 US states — updated daily with salary data you can trust."}]]}],["$","nav",null,{"aria-label":"Jobs links","children":[["$","p",null,{"className":"footer-heading","children":"Jobs"}],["$","a",null,{"href":"/jobs","children":"All Jobs"}],["$","a",null,{"href":"/jobs/states","children":"Browse by State"}],[["$","a","engineering",{"href":"/jobs/category/engineering","children":["Engineering"," Jobs"]}],["$","a","data",{"href":"/jobs/category/data","children":["Data & Analytics"," Jobs"]}],["$","a","product",{"href":"/jobs/category/product","children":["Product"," Jobs"]}],["$","a","marketing",{"href":"/jobs/category/marketing","children":["Marketing"," Jobs"]}]]]}],["$","nav",null,{"aria-label":"Popular states","children":[["$","p",null,{"className":"footer-heading","children":"Popular States"}],[["$","a","california",{"href":"/jobs/state/california","children":["Jobs in ","California"]}],["$","a","florida",{"href":"/jobs/state/florida","children":["Jobs in ","Florida"]}],["$","a","illinois",{"href":"/jobs/state/illinois","children":["Jobs in ","Illinois"]}],["$","a","new-york",{"href":"/jobs/state/new-york","children":["Jobs in ","New York"]}],["$","a","texas",{"href":"/jobs/state/texas","children":["Jobs in ","Texas"]}],["$","a","washington",{"href":"/jobs/state/washington","children":["Jobs in ","Washington"]}]]]}],["$","nav",null,{"aria-label":"Resources","children":[["$","p",null,{"className":"footer-heading","children":"Resources"}],["$","a",null,{"href":"/blog","children":"Career Guides"}],[["$","a","Salary Guides",{"href":"/blog?category=Salary%20Guides","children":"Salary Guides"}],["$","a","Application Prep",{"href":"/blog?category=Application%20Prep","children":"Application Prep"}],["$","a","Visa Guides",{"href":"/blog?category=Visa%20Guides","children":"Visa Guides"}]],["$","a",null,{"href":"/about","children":"About"}],["$","a",null,{"href":"/contact","children":"Contact"}],["$","a",null,{"href":"/privacy","children":"Privacy Policy"}]]}]]}],["$","div",null,{"className":"footer-bottom","children":[["$","p",null,{"children":["© 2026 ","USA Job Board",". Job listings are for informational purposes."]}],["$","p",null,{"children":["$","a",null,{"href":"/sitemap.xml","children":"Sitemap"}]}]]}]]}]}],["$","script",null,{"dangerouslySetInnerHTML":{"__html":"\n(function () {\n  var header = document.getElementById('site-header');\n  var toggle = document.getElementById('nav-toggle');\n  if (!header || !toggle) return;\n  toggle.addEventListener('click', function () {\n    var open = header.classList.toggle('nav-open');\n    toggle.setAttribute('aria-expanded', open ? 'true' : 'false');\n    toggle.setAttribute('aria-label', open ? 'Close menu' : 'Open menu');\n  });\n  header.addEventListener('click', function (e) {\n    if (e.target.closest('a') && header.classList.contains('nav-open')) {\n      header.classList.remove('nav-open');\n      toggle.setAttribute('aria-expanded', 'false');\n      toggle.setAttribute('aria-label', 'Open menu');\n    }\n  });\n})();\n"}}],["$","$L6",null,{"src":"https://www.googletagmanager.com/gtag/js?id=G-BNHXGD43CN","strategy":"afterInteractive"}],["$","$L6",null,{"id":"google-analytics","strategy":"afterInteractive","children":"window.dataLayer = window.dataLayer || [];\nfunction gtag(){dataLayer.push(arguments);}\ngtag('js', new Date());\ngtag('config', 'G-BNHXGD43CN');"}]]}]}]],null],null],["$L7",null]]]]
+7:[["$","meta","0",{"name":"viewport","content":"width=device-width, initial-scale=1"}],["$","meta","1",{"charSet":"utf-8"}],["$","title","2",{"children":"US Work Visas Beyond H-1B: L-1, O-1, and TN in 2026 | USA Job Board"}],["$","meta","3",{"name":"description","content":"The three big H-1B alternatives — L-1 intra-company transfer, O-1 extraordinary ability, and TN for Canadians and Mexicans: who qualifies, real 2026 costs, and which one fits you."}],["$","link","4",{"rel":"canonical","href":"https://aijobboard.example.com/blog/us-work-visas-l1-o1-tn"}],["$","meta","5",{"name":"google-site-verification","content":"-l-5rZzPbEGU1p9CTATbJKrpKA0Wk5_YphqLJsDCXe0"}],["$","meta","6",{"property":"og:title","content":"US Work Visas Beyond H-1B: L-1, O-1, and TN in 2026"}],["$","meta","7",{"property":"og:description","content":"The three big H-1B alternatives — L-1 intra-company transfer, O-1 extraordinary ability, and TN for Canadians and Mexicans: who qualifies, real 2026 costs, and which one fits you."}],["$","meta","8",{"property":"og:url","content":"https://aijobboard.example.com/blog/us-work-visas-l1-o1-tn"}],["$","meta","9",{"property":"og:site_name","content":"USA Job Board"}],["$","meta","10",{"property":"og:type","content":"article"}],["$","meta","11",{"name":"twitter:card","content":"summary"}],["$","meta","12",{"name":"twitter:title","content":"US Work Visas Beyond H-1B: L-1, O-1, and TN in 2026"}],["$","meta","13",{"name":"twitter:description","content":"The three big H-1B alternatives — L-1 intra-company transfer, O-1 extraordinary ability, and TN for Canadians and Mexicans: who qualifies, real 2026 costs, and which one fits you."}],["$","link","14",{"rel":"icon","href":"/icon.svg?ad365f3a0ea45e42","type":"image/svg+xml","sizes":"any"}],["$","meta","15",{"name":"next-size-adjust"}]]
+1:null
